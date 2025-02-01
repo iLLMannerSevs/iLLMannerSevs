@@ -1,4 +1,4 @@
-## Hi there 👋
+![Static Badge](https://img.shields.io/badge/GF%20Sadness%20Level-High-red?style=for-the-badge)
 
 <!--
 **iLLMannerSevs/iLLMannerSevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
