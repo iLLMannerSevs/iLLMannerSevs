@@ -1,5 +1,10 @@
 ![Static Badge](https://img.shields.io/badge/GF%20Sadness%20Level-High-red?style=for-the-badge)
 
+- [iM7s_DrugRunning Wiki Pages](https://www.notion.so/iM7s_Drug-Running-Mod-16670298035b804d95c9cf9b8868a99b)
+
+- [iM7s_DrugRunning on DayZ Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3465841846)
+
+
 <!--
 **iLLMannerSevs/iLLMannerSevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
