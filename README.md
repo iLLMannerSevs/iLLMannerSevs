@@ -1,5 +1,3 @@
-![Static Badge](https://img.shields.io/badge/GF%20Sadness%20Level-High-red?style=for-the-badge)
-
 [![i-M7s-Drug-Running-GH-Banner.png](https://i.postimg.cc/76zDsDkC/i-M7s-Drug-Running-GH-Banner.png)](https://postimg.cc/phPgrwyx)
 
 - [iM7s_DrugRunning Wiki Pages](https://www.notion.so/iM7s_Drug-Running-Mod-16670298035b804d95c9cf9b8868a99b)
